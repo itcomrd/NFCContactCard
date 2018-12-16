@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView android:text="@string/text1"
+        android:textColor="#FFFFFF"
+        android:id="@+id/text1"
+        android:textSize="16sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="false"
+        android:layout_marginBottom="4sp"
+        android:checked="true" />
+
+    <TextView android:text="@string/text3"
+        android:textColor="#FFFFFF"
+        android:id="@+id/text3"
+        android:textSize="14sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:layout_marginBottom="4sp"
+        android:checked="true"/>
+
+    <Switch android:text="@string/sw1"
+        android:id="@+id/sw1"
+        android:textSize="14sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="false"
+        android:layout_marginBottom="4sp"
+        android:textOn="On"
+        android:textOff="Off"
+        android:checked="true"/>
+
+    <Switch android:text="@string/sw2"
+        android:id="@+id/sw2"
+        android:textSize="14sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="false"
+        android:layout_marginBottom="4sp"
+        android:textOn="On"
+        android:textOff="Off"
+        android:checked="true"/>
+
+    <Switch android:text="@string/sw3"
+        android:id="@+id/sw3"
+        android:textSize="14sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="false"
+        android:layout_marginBottom="4sp"
+        android:textOn="On"
+        android:textOff="Off"
+        android:checked="true"/>
+
+    <Switch android:text="@string/sw4"
+        android:id="@+id/sw4"
+        android:textSize="14sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="false"
+        android:layout_marginBottom="4sp"
+        android:textOn="On"
+        android:textOff="Off"
+        android:checked="true"/>
+
+    <Switch android:text="@string/sw5"
+        android:id="@+id/sw5"
+        android:textSize="14sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="false"
+        android:layout_marginBottom="4sp"
+        android:textOn="On"
+        android:textOff="Off"
+        android:checked="true"/>
+
+
+    <TextView android:text="@string/text2"
+        android:textColor="#FFFFFF"
+        android:id="@+id/text2"
+        android:textSize="16sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="false"
+        android:layout_marginBottom="24sp"
+        android:checked="true" />
+
+</LinearLayout>

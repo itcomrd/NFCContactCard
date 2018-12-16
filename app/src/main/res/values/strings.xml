@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Nfc Contact Card</string>
+    <string name="beam_button">Beem your information!</string>
+    <!-- Developer's infomation -->
+    <string name="eula_developer_name">Intelligence communication R&amp;D Japan</string><!-- assigned to %2$s -->
+    <string name="no_permission">"Permission is not granted by you!</string>
+    <string name="nfc_sent">Android beem finished!</string>
+    <string name="nfc_hw_warning">No NFC hardware!</string>
+    <string name="text3">Name:</string>
+    <string name="sw1">Phone : </string>
+    <string name="sw2">Email : </string>
+    <string name="sw3">Company : </string>
+    <string name="sw4">Web Site : </string>
+    <string name="sw5">Address : </string>
+    <string name="text1">Select data to send</string>
+    <string name="text2">Please bring it closer to the destination.</string>
+
+</resources>

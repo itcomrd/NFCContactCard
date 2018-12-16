@@ -1,0 +1,17 @@
+<resources>
+    <string name="beam_button">情報をビームする</string>
+    <!-- Developer's infomation -->
+    <string name="eula_developer_name">情報通信Ｒ＆Ｄ</string><!-- assigned to %2$s -->
+    <string name="no_permission">ソフトウェアの動作許可がされていません</string>
+    <string name="nfc_sent">送信完了</string>
+    <string name="nfc_hw_warning">NFCを利用できない端末です</string>
+    <string name="text3">名前：</string>
+    <string name="sw1">電話番号：</string>
+    <string name="sw2">メール：</string>
+    <string name="sw3">会社：</string>
+    <string name="sw4">URL：</string>
+    <string name="sw5">住所：</string>
+    <string name="text1">送信するデータを選択してください</string>
+    <string name="text2">選択したら送信先に近づけてください</string>
+
+</resources>
