@@ -1,0 +1,2 @@
+# NFCContactCard
+Android NFCで名刺交換的なことをやろうとして作ったアプリ
